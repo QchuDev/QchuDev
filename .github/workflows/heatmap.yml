@@ -1,0 +1,41 @@
+name: Refresh contribution heatmap
+
+# Keeps assets/anim/heatmap.svg in sync with real contribution activity.
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily at 04:17 UTC
+  workflow_dispatch:        # allow manual runs from the Actions tab
+  push:
+    paths:
+      - ".build/make_heatmap.py"
+      - ".github/workflows/heatmap.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate hand-drawn heatmap
+        run: python3 .build/make_heatmap.py "${{ github.repository_owner }}"
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- assets/anim/heatmap.svg; then
+            git add assets/anim/heatmap.svg
+            git commit -m "chore: refresh contribution heatmap"
+            git push
+          else
+            echo "No heatmap changes."
+          fi
