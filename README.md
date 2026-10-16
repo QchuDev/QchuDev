@@ -11,17 +11,9 @@
 
 <div align="center">
 
-<img src="assets/anim/qchudev-hi-float.svg" alt="Qchu waving" width="150" />
+<img src="assets/anim/header.svg" alt="hi, i'm Qchu — i build things from scratch" width="100%" />
 
 <br/>
-
-<img src="assets/titles/h-name.png" alt="hi, i'm Qchu" height="70" />
-
-<br/>
-
-<img src="assets/titles/h-tagline.png" alt="i build things from scratch" height="34" />
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ser%C3%A9-81348030b/">
   <img src="https://img.shields.io/badge/LinkedIn-FF9A00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,7 +22,7 @@
   <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=FF9A00" alt="Portfolio" />
 </a>
 <a href="mailto:jjosesere@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF9A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/jjosesere@gmail.com-FF9A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jjosesere@gmail.com" />
 </a>
 
 </div>

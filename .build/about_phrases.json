@@ -1,0 +1,13 @@
+{
+  "_comment": "Phrases that cycle inside the speech bubble in the About section. Add, remove or reorder freely, then run: python3 .build/make_about.py  — each entry is one bubble; use \\n inside a string to force a line break, otherwise text wraps automatically.",
+  "seconds_per_phrase": 3.0,
+  "phrases": [
+    "hi! i'm Juan José (aka Qchu)",
+    "3rd-year Software Engineering\n@ Universidad Austral",
+    "i love Java, Python, C & C++\n...and i'm learning Rust",
+    "i build engines & tools\nfrom scratch",
+    "i write flight software\nfor a rocket (Kalman filters!)",
+    "self-studying quantum\ncomputing on the side",
+    "i tutor math, algebra & physics"
+  ]
+}
