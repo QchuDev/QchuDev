@@ -75,92 +75,11 @@ Python**) and close to the metal (**C, C++**).
 
 <table border="0">
 <tr>
-<td width="80%" valign="middle">
-
-<p>
-  <img src="https://img.shields.io/badge/Java-FF9A00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FF9A00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-FF9A00?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FF9A00?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-FF9A00?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-FF9A00?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-FF9A00?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FF9A00?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/D3.js-FFFFFF?style=for-the-badge&logo=d3dotjs&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/CMake-FFFFFF?style=for-the-badge&logo=cmake&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FF9A00" />
-</p>
-
+<td width="26%" valign="middle" align="center">
+  <img src="assets/anim/qchudev-toolbox-float.svg" alt="Qchu with toolbox" width="150" />
 </td>
-<td width="20%" valign="middle" align="center">
-  <img src="assets/anim/qchudev-toolbox-float.svg" alt="Qchu with toolbox" width="140" />
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ===================== WORK (card grid) ===================== -->
-<img src="assets/titles/t-work.png" alt="where i've built things" height="48" />
-
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-> ### <img src="assets/icons/rocket.png" height="22" align="top" /> Embedded Software Developer
-> **Aerospace Austral Team** · `2025 – now`
->
-> Flight software for a rocket: apogee detection validated on a real launch,
-> matrix math and a **Kalman filter from scratch** for real-time sensor fusion.
->
-> `C`
-
-</td>
-<td width="50%" valign="top">
-
-> ### <img src="assets/icons/coffee.png" height="22" align="top" /> Backend Developer
-> **Study-Arena** — Capstone, Software Lab II · `2025`
->
-> Backend services in a 6-person agile team (Scrum), AI-powered agents and an
-> automated **CI/CD** pipeline.
->
-> `Java · Spring Boot · PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-> ### <img src="assets/icons/globe.png" height="22" align="top" /> Full-Stack Developer
-> **NodeVix** — Software Lab I · `2024`
->
-> Interactive web sandbox that visualizes data structures and graph algorithms
-> with animated nodes and edges.
->
-> `TypeScript · Vite · D3.js · Node.js`
-
-</td>
-<td width="50%" valign="top">
-
-> ### <img src="assets/icons/gamepad-2.png" height="22" align="top" /> Mod Developer
-> **Seagull Safety & Transportation Studios** · `2025`
->
-> End-to-end gameplay feature for a published Minecraft mod.
->
-> `Java`
-
+<td width="74%" valign="middle" align="center">
+  <img src="assets/anim/stack-cloud.svg" alt="My floating tech stack" width="100%" />
 </td>
 </tr>
 </table>
@@ -257,14 +176,6 @@ It's my favorite *side quest*: where `0` and `1` stop being mutually exclusive.
 <!-- ===================== STATS (hand-drawn heatmap) ===================== -->
 <div align="center">
 
-<img src="assets/titles/t-stats.png" alt="the numbers" height="48" />
-
-<br/>
-
-<sub>a year of commits, hand-drawn — the bigger the blob, the busier the day</sub>
-
-<br/><br/>
-
 <img src="assets/anim/heatmap.svg" alt="QchuDev hand-drawn contribution heatmap" width="820" />
 
 </div>
@@ -276,20 +187,17 @@ It's my favorite *side quest*: where `0` and `1` stop being mutually exclusive.
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
 
-<img src="assets/titles/t-connect.png" alt="say hi!" height="48" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-ser%C3%A9-81348030b/">
-  <img src="assets/anim/click-me-button-float.svg" alt="click me - LinkedIn" width="200" />
-</a>
-
-<br/><br/>
-
-<img src="assets/anim/qchudev-t-posing-float.svg" alt="Qchu t-posing" width="130" />
-
-<br/>
-
-<sub><code>0 1 /</code> &nbsp;·&nbsp; built from scratch, with love &nbsp;·&nbsp; <code>&lt;/&gt;</code></sub>
+<table border="0">
+<tr>
+<td valign="middle" align="center">
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ser%C3%A9-81348030b/">
+    <img src="assets/anim/click-me-button-float.svg" alt="click me - LinkedIn" width="200" />
+  </a>
+</td>
+<td valign="middle" align="center">
+  <img src="assets/anim/qchudev-t-posing-float.svg" alt="Qchu t-posing" width="130" />
+</td>
+</tr>
+</table>
 
 </div>
